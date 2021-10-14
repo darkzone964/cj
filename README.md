@@ -14,4 +14,18 @@ pkg install python
 
 pkg install python2
 
-git clone
+git clone https://github.com/darkzone964/cj
+
+cd cj
+
+ls
+
+chmod +x * 
+
+python cj.py
+
+or
+
+python2 cj.py
+
+see you ☺️
