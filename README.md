@@ -28,4 +28,10 @@ or
 
 python2 cj.py
 
+ID FROM TELE APP
+
+AND 
+
+TOKEN BOT 
+
 see you ☺️
